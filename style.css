@@ -1,0 +1,30 @@
+#gamepobolbshe{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+ input{ 
+    margin-left: 20px;
+    font-size: 30px; 
+    padding: 10px 20px; 
+    display: block; 
+    width: calc(100% - 50px); 
+    margin-bottom: 50px; 
+} 
+#gamepomenbshe{ 
+    width: 550px; 
+} 
+h1{
+    font-size: 70px;
+}
+p{
+    font-size: 40px;
+}
+.knpk{
+    background-color: black;
+    font-size: 25px;
+    color: white;
+    padding: 10px 20px;
+}
